@@ -1,9 +1,9 @@
 # SystemsCyber.github.io
-Website
+Dr. Jeremy Daily- Systems Engineering Department - Colorado State University
 
 Resources and content related to the work and interests of Dr. Jeremy Daily, Associate Professor of Systems Engineering at Colorado State University
 
-##Resources for heavy vehicle digital forensics and cybersecurity.
+## Resources for heavy vehicle digital forensics and cybersecurity.
 
 Projects and data from networks on heavy vehicles. J1939 tools and resources are available to help students and researchers understand some of the challenges of securing heavy vehicles. Many projects are open source and linked to public Github repositories.
 
